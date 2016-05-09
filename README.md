@@ -22,9 +22,9 @@ python3 dihedrals.py -i sample-input.pdb -n sample-ids.txt
 
 ## Input and Output formats
 ### Input Formats:
- * -i: 	string of corresponding pdb file
- * -n:	string corresponding to text file containing integers for atom ids. Each line is a set of 4 which defines the dihedral angle.
- * -o:	string containing the name of the file to which the angles are output
+ * i: 	string of corresponding pdb file
+ * n:	string corresponding to text file containing integers for atom ids. Each line is a set of 4 which defines the dihedral angle.
+ * o:	string containing the name of the file to which the angles are output
 
   
 ### Format of Input ID file:
