@@ -18,8 +18,8 @@ The tool is called from the command line as exemplified below. It takes in a pdb
 ### Examples:
 ```{r NCBI_python, engine="python", highlight=TRUE}
 # Usage from terminal:
-	     python3 dihedrals.py -i sample-input.pdb -n sample-ids.txt -o sample-output.txt
-   		 python3 dihedrals.py -i sample-input.pdb -n sample-ids.txt
+python3 dihedrals.py -i sample-input.pdb -n sample-ids.txt -o sample-output.txt
+python3 dihedrals.py -i sample-input.pdb -n sample-ids.txt
    		 
 ```
 
