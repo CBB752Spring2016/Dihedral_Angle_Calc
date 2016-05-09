@@ -5,10 +5,9 @@ Python tool that calculates the dihedral angle based on a pdb file and an input-
 ## Note: 
 This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing links to the set of tools can be found at: https://github.com/CBB752Spring2016/CBB752Spring2016.github.io
 
-# The python tool is named dihedrals.py
 ## General
 
-dihedrals.py and takes 2 required inputs (input, inputids) and has one optional (output)
+The tool is named dihedrals.py. It takes 2 required inputs (input, inputids) and has one optional (output)
 The tool is called from the command line as exemplified below. It takes in a pdb file and a text file containing sets of 4 atom ids which define the dihedral angle in the pdb file. Sample files (sample-input.pdb and sample-ids.txt) are included in the repository. The corresponding output is given in sample-output.txt. 
 
 
