@@ -1,4 +1,4 @@
-**README for Dihedral_Anlge_Calc**
+**README for Calculating Dihedral Angles from a PDB-file**
 ---------------------------------------------------------------
 Python tool that calculates the dihedral angle based on a pdb file and an input-id file containing the corresponing atom ids of four atoms in said file. A tool that accomplishes this task in the language R can be found [here] (https://github.com/kevkid/CBB_Bioinformatics_FinalProject_4.3)
 
