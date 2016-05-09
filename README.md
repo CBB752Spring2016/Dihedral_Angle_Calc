@@ -1,9 +1,6 @@
 **README for Calculating Dihedral Angles from a PDB-file**
 ---------------------------------------------------------------
-Python tool that calculates the dihedral angle based on a pdb file and an input-id file containing the corresponing atom ids of four atoms in said file. A tool that accomplishes this task in the language R can be found [here] (https://github.com/kevkid/CBB_Bioinformatics_FinalProject_4.3)
-
-## Note: 
-This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing links to the set of tools can be found [here] (http://cbb752spring2016.github.io/Structure)
+Python tool that calculates the dihedral angle based on a pdb file and an input-id file containing the corresponing atom ids of four atoms in said file. A tool that accomplishes this task in the language R can be found [here] (https://github.com/kevkid/CBB_Bioinformatics_FinalProject_4.3) This tool is part of a set of bioinformatic and biological structure tools created for CBB752 at Yale University in the Spring 2016. The website containing the set of tools can be found [here] (http://cbb752spring2016.github.io/Structure)
 
 ## General
 
