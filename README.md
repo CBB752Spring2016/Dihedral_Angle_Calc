@@ -44,7 +44,8 @@ The tool is called from the command line as exemplified below. It takes in a pdb
 
 ### Order of Output file formatting:
 
-Atom Names			Atom IDs
+| --------Atom  Names------- | ----------Atom IDs---------- | Angle | 
+|---|---|---|
 
 | A1 | A2 | A3 | A4 | A1 | A2 | A3 | A4 |	Angle (°) |
 |---|---|---|---|---|---|---|---|---|
